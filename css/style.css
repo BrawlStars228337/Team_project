@@ -7,7 +7,7 @@
 .Stresobus_main{
     width: 1440px;
     margin: 0 auto;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(253, 253, 253);
     height: 10000px;
 }
 
@@ -28,40 +28,40 @@
 }
 
 .hr_fir{
-    right: 60px;
+    right: 50px;
     
 }
 
 .hr_sec{
-    right: 240px;
+    right: 190px;
 }
 
 
 .hr_third{
-right: 400px;
+right: 350px;
 }
 
 
 .hr_four{
-right: 540px;
+right: 490px;
 }
 
 
 .hr_five{
-
+right: 570px;
 }
 
 .num_4{
     display: flex;
     justify-content: space-between;
     position: relative;
-    right: 470px;
+    right: 420px;
     top: 32px;
 }
 
 .header_a{
     position: relative;
-    right: 145px;
+    right: 115px;
     top: 30px;
     margin: 2px;
 }
@@ -76,24 +76,26 @@ a:focus{
 }
 
 .ddds{
-    display: block;
-    width: 40px;
+display: block;
+width: 40px;
 height: 30px;
 background-color: #4AD295;
 color: white;
 text-align: center;
 line-height: 30px;
-right: 150px;
+right: 120px;
 }
 
 .header_p{
     position: relative;
-    right: 320px;
+    right: 270px;
     top: 25px;
     margin: 5px;
 }
 
 .header_num{
     position: relative;
-    right: 580px;
+    right: 550px;
+    top: 25px;
+    margin: 5px;
 }

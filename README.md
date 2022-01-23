@@ -1,5 +1,5 @@
 I`ts not your branch:)
-got out 
+go out 
 крч переключись на другую ветку. 
 Если не знаешь как то вот:
 git checkout Igor - для  Игоря
