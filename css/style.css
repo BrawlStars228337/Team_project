@@ -257,3 +257,118 @@ line-height: 60px;
 }
 
 
+.header_mini{
+    background-color: #F8F8F8;
+    height: 250px;
+}
+
+.header_mini1{
+    float: left;
+    width: 720px;
+    height: 250px;
+    display: list-item;
+    position: relative;
+    right: -200px;
+    list-style-type: none;
+    font-family:sans-serif;
+    top: 30px;
+}
+
+
+.header_mini2{
+    float: left;
+    width: 720px;
+    height: 250px;
+    display: list-item;
+    list-style-type: none;
+    
+    right: 100px;
+    position: relative;
+}
+
+
+.sup_consult{
+   
+    width: 270px;
+    height: 50px;
+    color: white;
+    background-color: #BDBDBD;
+    font-size: 16px;
+    text-align: center;
+    line-height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: 0.3s;
+    font-weight: 600;
+    border: 0px solid black;
+    border-radius: 2px;
+}
+
+
+.what_predlog{
+    position: relative;
+    right: -30px;
+    width: 220px;
+    height: 50px;
+    color: #969696;
+    border: 1px solid #969696;
+box-sizing: border-box;
+border-radius: 2px;
+text-align: center;
+font-size: 16px;
+line-height: 50px;
+font-family: Arial, Helvetica, sans-serif;
+transition: 0.3s;
+font-weight: 600;
+}
+
+.for_abobusnyanka{
+    display: flex;
+    
+}
+
+
+.sup_consult:hover{
+    color:white;
+    background-color: grey;
+    transition: 0.3s;
+    
+}
+
+.what_predlog:hover{
+transition: 0.3s;
+background-color: white;
+color: rgb(61, 58, 58);
+border: 1px solid rgb(61, 58, 58);
+}
+
+
+.icons_mini_hed{
+    float: left;
+    position: relative;
+    right: -280px;
+    top: 20px;
+    font-size: 20px;
+    color: #969696;
+}
+
+.text_mini_hed{
+    float: left;
+    position: relative;
+    right: -300px;
+    font-size: 18px;
+    font-weight: 500;
+    top: 30px;
+    
+}
+
+
+.ABBBS{
+    width: 45px;
+     height: 45px; 
+    border: 1.2px dashed #969696; 
+    box-sizing: border-box;
+    position: relative;
+    text-align: center;
+    line-height: 45px;
+    border-radius: 40px;
+}
