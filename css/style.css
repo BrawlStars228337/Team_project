@@ -28,40 +28,40 @@
 }
 
 .hr_fir{
-    right: 50px;
+    right: -10px;
     
 }
 
 .hr_sec{
-    right: 190px;
+    right: 30px;
 }
 
 
 .hr_third{
-right: 350px;
+right: 70px;
 }
 
 
 .hr_four{
-right: 490px;
+right: 110px;
 }
 
 
 .hr_five{
-right: 570px;
+right: 110px;
 }
 
 .num_4{
     display: flex;
     justify-content: space-between;
     position: relative;
-    right: 420px;
+    right: 90px;
     top: 32px;
 }
 
 .header_a{
     position: relative;
-    right: 115px;
+    right: 5px;
     top: 30px;
     margin: 2px;
 }
@@ -83,19 +83,81 @@ background-color: #4AD295;
 color: white;
 text-align: center;
 line-height: 30px;
-right: 120px;
+right:10px;
 }
 
 .header_p{
     position: relative;
-    right: 270px;
+    right: 50px;
     top: 25px;
     margin: 5px;
 }
 
 .header_num{
     position: relative;
-    right: 550px;
+    right: 130px;
     top: 25px;
     margin: 5px;
+}
+
+.input_header{
+    width: 240px;
+    height: 55px;
+    background-color: #EFF3F6;
+    color: #373737;
+    text-align: center;
+    float: left;
+    line-height: 55px;
+    position: relative;
+    right: 120px;
+    top: 30px;
+}
+
+
+.red_checker{
+    width: 55px;
+    height: 55px;
+    background-color:#DD4053;
+    position: relative;
+    right: 120px;
+    float: left;
+    text-align: center;
+    line-height: 55px;
+    font-size: 30px;
+    top: 30px;
+}
+
+
+
+.output_header{
+    width: 205px;
+    height: 55px;
+    background-color: #EFF3F6;
+    color: #373737;
+    float: left;
+    position: relative;
+    top: 30px;
+    text-align: center;
+    line-height: 55px;
+    right: 100px;
+}
+
+.green_checker{
+    float: left;
+    width: 55px;
+    height: 55px;
+    background-color: #4AD295;
+    text-align: center;
+    font-size: 30px;
+    line-height: 55px;
+    position: relative;
+    top: 30px;
+    right: 100px;
+}
+
+
+.The_end{
+    width: 100%;
+    height: 0px;
+    color: #D0D0D0;
 }
