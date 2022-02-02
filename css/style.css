@@ -580,3 +580,107 @@ top: 165px;
 width: 280px;
 right: -110px;
 }
+
+
+
+.actual_tours_text1{
+    font-weight: 500;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 45px;
+    color: #232323;
+    float: left;
+}
+
+
+.actual_tours{
+    position: relative;
+    top: 250px;
+    right: -200px;
+}
+
+.actual_tour_text1{
+    font-weight: 700;
+    font-size: 14px;
+    color: #969696;
+
+}
+
+.actual_tours_aobib{
+    text-align: center;
+    line-height: 45px;
+    width: 140px;
+    height: 45px;
+    border: 1px solid #969696;
+box-sizing: border-box;
+border-radius: 2px;
+float: left;
+position: relative;
+right: -110px;
+top: 10px;
+display: block;
+}
+
+
+.super_block_tours1{
+    width: 325px;
+    height: 480px;
+    
+}
+
+.super_block_tours2{
+    width: 325px;
+    height: 480px;
+    
+}
+
+
+.super_block_tours3{
+    width: 325px;
+    height: 480px;
+    
+}
+
+
+.image_tour_super1{
+background: url(../img/actual_tours_image1.png) no-repeat;
+width: 325px;
+height: 250px;
+}
+
+
+.image_tour_super2{
+    background: url(../img/actual_tours_image2.png) no-repeat;
+    width: 325px;
+    height: 250px;
+    }
+    
+
+
+    .image_tour_super3{
+        background: url(../img/actual_tours_image3.png) no-repeat;
+        width: 325px;
+        height: 250px;
+        }
+        
+/* hello abobusiki its hqdeshecka lol prikol*/
+
+.hqdeshecka{
+    display: flex;
+    justify-content: space-between;
+    width: 1030px;
+    position: relative;
+    right: 0px;
+    
+}
+
+
+.portonovi_actual_tours{
+    width: 195px;
+    height: 30px;
+    background: rgba(0, 0, 0, 0.35);
+    color: white;
+    line-height: 30px;
+    text-align: center;
+    position: relative;
+    top: 20px;
+}
