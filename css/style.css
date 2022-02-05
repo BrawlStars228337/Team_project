@@ -621,23 +621,31 @@ display: block;
 }
 
 
+.actual_tours_block2{
+position: relative;
+top: 70px;
+}
+
 .super_block_tours1{
     width: 325px;
     height: 480px;
-    
+    display: list-item;
+    list-style-type: none;
 }
 
 .super_block_tours2{
     width: 325px;
     height: 480px;
-    
+    display: list-item;
+    list-style-type: none;
 }
 
 
 .super_block_tours3{
     width: 325px;
     height: 480px;
-    
+    display: list-item;
+    list-style-type: none;
 }
 
 
@@ -645,6 +653,7 @@ display: block;
 background: url(../img/actual_tours_image1.png) no-repeat;
 width: 325px;
 height: 250px;
+
 }
 
 
@@ -683,4 +692,98 @@ height: 250px;
     text-align: center;
     position: relative;
     top: 20px;
+}
+
+
+.info_tour_super1{
+    height: 230px;
+    width:325px ;
+    background-color: #F8F8F8;
+}
+
+
+.info_tour_super2{
+    height: 230px;
+    width:325px ;
+    background-color: #F8F8F8;
+}
+
+
+
+
+.info_tour_super3{
+    height: 230px;
+    width:325px ;
+    background-color: #F8F8F8;
+    
+}
+
+
+.info_mini_info{
+position: relative;
+right: -20px;
+top: 10px;
+}
+
+
+.Gasprom_oneandonly{
+    font-weight: 500;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+
+.oneandonly_text{
+    font-weight: 400;
+    font-size: 16px;
+    color: #848484;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+.hr_actual_tours{
+    color: #E8E8E8;
+    width: 280px;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+
+.actual_tours_sell{
+    display: flex;
+    position: relative;
+    top: 40px;
+    left: 20px;
+
+}
+
+
+.sell_actual_tour{
+    color: #DD4053;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+.sell_aboba{
+    color:#C9C9C9;
+    font-size: 12px;
+    font-weight: 600;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+.minecraftobus_sell2{
+    position: relative;
+    right: -45px;
+    
+}
+
+.sell_text{
+    font-size: 12px;
+    margin: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
